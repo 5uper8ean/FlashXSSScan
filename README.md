@@ -22,4 +22,6 @@ https://github.com/lijiejie/subDomainsBrute
 
 FlashXSSScan.py domain.txt
 
+5、生成扫描结果
 
+保存在scan_result.txt里
